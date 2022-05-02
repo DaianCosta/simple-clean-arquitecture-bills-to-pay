@@ -17,4 +17,4 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/bills_to_pay
     username: root
-    password: 1089
+    password: 
