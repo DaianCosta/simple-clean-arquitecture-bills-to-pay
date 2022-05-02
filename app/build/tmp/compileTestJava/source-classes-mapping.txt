@@ -1,0 +1,10 @@
+br/com/dcsolution/BillsToPayApplicationTest.java
+ br.com.dcsolution.BillsToPayApplicationTest
+br/com/dcsolution/group/entrypoint/rest/controller/GroupStub.java
+ br.com.dcsolution.group.entrypoint.rest.controller.GroupStub
+br/com/dcsolution/group/presenter/converter/GroupRestConverterStub.java
+ br.com.dcsolution.group.presenter.converter.GroupRestConverterStub
+br/com/dcsolution/group/presenter/converter/GroupRestConverterTest.java
+ br.com.dcsolution.group.presenter.converter.GroupRestConverterTest
+br/com/dcsolution/group/entrypoint/rest/controller/GroupControllerIntegrationTest.java
+ br.com.dcsolution.group.entrypoint.rest.controller.GroupControllerIntegrationTest

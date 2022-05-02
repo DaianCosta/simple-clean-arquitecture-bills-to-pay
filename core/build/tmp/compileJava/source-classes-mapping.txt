@@ -1,0 +1,18 @@
+br/com/dcsolution/group/usecase/GetGroupUseCase.java
+ br.com.dcsolution.group.usecase.GetGroupUseCase
+br/com/dcsolution/group/exception/BusinessException.java
+ br.com.dcsolution.group.exception.BusinessException
+br/com/dcsolution/group/dto/GroupDto.java
+ br.com.dcsolution.group.dto.GroupDto
+br/com/dcsolution/common/dto/PaginationDto.java
+ br.com.dcsolution.common.dto.PaginationDto
+br/com/dcsolution/group/dataprovider/repository/GroupRepository.java
+ br.com.dcsolution.group.dataprovider.repository.GroupRepository
+br/com/dcsolution/group/usecase/CreateGroupUseCase.java
+ br.com.dcsolution.group.usecase.CreateGroupUseCase
+br/com/dcsolution/group/entity/Group.java
+ br.com.dcsolution.group.entity.Group
+br/com/dcsolution/group/usecase/impl/CreateGroupUseCaseImpl.java
+ br.com.dcsolution.group.usecase.impl.CreateGroupUseCaseImpl
+br/com/dcsolution/group/usecase/impl/GetGroupUseCaseImpl.java
+ br.com.dcsolution.group.usecase.impl.GetGroupUseCaseImpl

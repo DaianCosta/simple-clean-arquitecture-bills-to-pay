@@ -1,0 +1,4 @@
+rootProject.name = 'bills-to-pay'
+include 'core'
+include 'app'
+

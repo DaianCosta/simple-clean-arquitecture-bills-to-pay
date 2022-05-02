@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.dcsolution.group.usecase.impl.CreateGroupUseCaseImplTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-30T22:43:21" hostname="192.168.0.174" time="0.13">
+  <properties/>
+  <testcase name="save()" classname="br.com.dcsolution.group.usecase.impl.CreateGroupUseCaseImplTest" time="0.13"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

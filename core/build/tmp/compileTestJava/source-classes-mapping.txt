@@ -1,0 +1,6 @@
+br/com/dcsolution/common/dto/PaginationDtoTest.java
+ br.com.dcsolution.common.dto.PaginationDtoTest
+br/com/dcsolution/group/usecase/impl/CreateGroupUseCaseImplTest.java
+ br.com.dcsolution.group.usecase.impl.CreateGroupUseCaseImplTest
+br/com/dcsolution/group/entity/GroupTest.java
+ br.com.dcsolution.group.entity.GroupTest

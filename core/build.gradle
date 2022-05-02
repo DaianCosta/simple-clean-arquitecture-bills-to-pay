@@ -1,0 +1,20 @@
+ext {
+    versions = [
+            inject : "1",
+            junit  : "5.7.0",
+            mockito: "1.10.19"
+    ]
+}
+
+dependencies {
+    implementation "javax.inject:javax.inject:${versions.inject}"
+
+    testImplementation "org.junit.jupiter:junit-jupiter-api:${versions.junit}"
+    testRuntimeOnly "org.junit.jupiter:junit-jupiter-engine:${versions.junit}"
+
+    testImplementation "org.mockito:mockito-all:${versions.mockito}"
+}
+
+test {
+    useJUnitPlatform()
+}
